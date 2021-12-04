@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    font-family: cursive;
+}
+
+#header_div{
+    font-size: 30px;
+    margin-top: 10px;
+    color: red;
+    margin-bottom: 10px;
+}
+
+#header_div p{
+    font-size: 16px;
+    color: grey;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+#main_div{
+    background-color: #F5DBDA;
+    padding: 20px;
+    height: 80%;
+}
+
+#main_div h3{
+    margin: 10px;
+    font-size: 20px;
+}
+
+#copy-right_footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-size: 18px;
+    text-shadow: 5px 5px 5px grey;
+}
